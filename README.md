@@ -12,7 +12,6 @@
 
 <p align="left">Me chamo José Guilherme Sório, tenho 33 anos com 6 anos de experiência em desenvolvimento web. Apaixonado pela área da tecnologia, café e muito estudo.</p>
 
-
 ###
 
 <h2 align="left">Minhas Skills</h2>
@@ -37,6 +36,6 @@
 
 ###
 
-![snake animation](https://github.com/jgsorio/jgsorio/blob/output/github-contribution-grid-snake2.svg)
+<img src="https://raw.githubusercontent.com/jgsorio/jgsorio/output/snake.svg" alt="Snake animation" />
 
 ###
