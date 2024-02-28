@@ -36,6 +36,6 @@
 
 ###
 
-![Snake animation](https://github.com/jgsorio/jgsorio/blob/output/github-contribution-grid-snake.gif)
+![Snake gif](https://github.com/jgsorio/jgsorio/blob/output/github-contribution-grid-snake.gif)
 
 ###
