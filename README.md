@@ -36,6 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jgsorio/jgsorio/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/jgsorio/jgsorio/blob/output/github-contribution-grid-snake2.svg)
 
 ###
