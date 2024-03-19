@@ -36,6 +36,6 @@
 
 ###
 
-![Snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jgsorio/jgsorio/blob/output/github-contribution-grid-snake.svg)
 
 ###
