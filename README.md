@@ -36,6 +36,6 @@
 
 ###
 
-[![Snake gif](https://github.com/jgsorio/jgsorio/blob/output/github-contribution-grid-snake.gif)](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg
+[![Snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)]
 
 ###
