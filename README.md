@@ -18,7 +18,7 @@
 
 ### :woman_technologist: Sobre Mim :
 
-Eu sou um desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, moro no Brasil e tenho 33 anos.
+Eu sou um desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, moro em São Paulo e tenho 33 anos.
 
 - :telescope: Trabalho atualmente com foco em backend, criando novas funcionalidades, resolvendo bugs e ajudando com o frontend algumas vezes. 
 
