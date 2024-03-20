@@ -48,6 +48,6 @@ Eu sou um desenvolvedor Full Stack <img src="https://media.giphy.com/media/WUlpl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jgsorio&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgsorio&layout=compact&theme=vision-friendly-dark)]
+[GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jgsorio&theme=dark&background=000000)
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgsorio&layout=compact&theme=vision-friendly-dark)
 
